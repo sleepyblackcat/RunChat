@@ -18,4 +18,4 @@ npm start
 ## Contributing
 
 ## License
-RunChat is under the GPL license. See the [LICENSE]() file for details.
+RunChat is under the GPL license. See the [LICENSE](LICENSE) file for details.
